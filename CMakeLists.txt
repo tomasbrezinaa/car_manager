@@ -6,6 +6,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 set(SOURCE_FILES
     main.cpp
+    ./src/car_manager.cpp
 )
 
 add_subdirectory(googletest)
